@@ -1,0 +1,3 @@
+{
+    "tag": "<div class=\"card-form\" id=\"last-form\"><form class=\"zoo-form\" id=\"guest-group-from\"><div class=\"zoo-form-title\">Group Form</div><div class=\"zoo-form-body\"><div class=\"row\"><label class=\"label\" for=\"group-number\">Number of guests</label><input class=\"zooField\" type=\"number\" name=\"group-number\" id=\"group-number\"></div<div class=\"rule\"></div><div class=\"form-footer\"><button class=\"confrim-group-button\" type=\"button\">Admit Group</button></div></form></div>"
+}

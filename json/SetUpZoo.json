@@ -1,0 +1,67 @@
+{
+    "name": "Ben's Zoo",
+    "guestCount": 496,
+    "animalCount": 0,
+    "animals": [
+    {
+        "id": 1,
+        "name": "Perry",
+        "age": 2,
+        "gender": "Female",
+        "weight": 3.2,
+        "isPregnant": false
+    },
+    {
+        "id": 2,
+        "name": "Harry",
+        "age": 2,
+        "gender": "Male",
+        "weight": 3.2,
+        "isPregnant": false
+    },
+    {
+        "id": 3,
+        "name": "Sherry",
+        "age": 2,
+        "gender": "Female",
+        "weight": 852,
+        "isPregnant": true
+    },
+    {
+        "id": 4,
+        "name": "Cherry",
+        "age": 2,
+        "gender": "Female",
+        "weight": 3.2,
+        "isPregnant": true
+    }],
+    "guests": [
+    {
+        "id": 1,
+        "name": "Ben",
+        "age": 22,
+        "gender": "Male",
+        "moneyAmount": 100
+    },
+    {
+        "id": 2,
+        "name": "Ally",
+        "age": 20,
+        "gender": "Female",
+        "moneyAmount": 200
+    },
+    {
+        "id": 3,
+        "name": "Jacob",
+        "age": 21,
+        "gender": "Male",
+        "moneyAmount": 20
+    },
+    {
+        "id": 4,
+        "name": "Sierra",
+        "age": 25,
+        "gender": "Female",
+        "moneyAmount": 35
+    }]
+}
